@@ -1,5 +1,5 @@
 # project01
-###Implemented Stuffs:
+### Implemented Stuffs:
   * parsing
   * fork()
   * execution
